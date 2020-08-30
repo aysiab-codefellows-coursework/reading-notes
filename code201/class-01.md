@@ -4,19 +4,37 @@
 - Introduction, Ch. 1 (JavaScript&JQuery)
 
 
-### Introducing HTML, CSS & JavaScript
+## Introducing HTML, CSS & JavaScript
 ***HTML:*** is the structure & content of a webpage. Think of *HTML* as the skeleton of your webpage.  
 ***CSS:*** is the color and the design of the webpage. Consider *CSS* as the physical apperance of your webpage. 
 ***JavaScript:*** is the logic and interactivity of the webpage. *JavaScript* will function as the brain of your webpage. 
 
 
-### Basic Anatomy of HTML: 
-***HTML*** is made up of *elements*, and these elements consist of *tags*. Tags typically have an opening and closing tag which informs the webpage how to structure the information between the two tags. The example down below displays the emphasis tag. 
+### Basic Anatomy of HTML & CSS: 
+***HTML*** is made up of *elements*, and these elements consist of *<tags>*. Tags typically have an opening and closing tag which informs the webpage how to structure the information between the two tags. The example down below displays the emphasis (`<em>`) tag. 
 
-`<em>emphasis</em>` would show as *emphasis* on your webpage. 
+- tags can be either *in line* or *block* elements 
+- the closing tag has a /forward slash between first `<` bracket and the tag
+  - the closing tag lets the webpage know that this specific tag ends here. 
 
-Note that to the closing tag has a /forward slash; the closing tag lets the webpage know that this specific tag ends here. Now, tags can contain more identifying information known as *attributes*. 
+This is the HTML: `This is an exmaple of the <em>emphasis</em> tag.`
+And this is what that HTML tells your webpage to do: This is an example of the *emphasis* tag. 
 
-`<em id="cats"> cats </em>` in this example, we are adding an attribute `id` that gives this emphasis tag a more unique id that can be called when stylizing with CSS. There are many different attributes that can be used, but this is just a quick example. 
+*Emphasis is an in line element because it only affects the structure within that one line of information.* 
+ 
 
-### Basic Anatomy of CSS:
+Now, tags can contain more identifying information known as *attributes*. 
+
+`<em id="cats"> cats </em>` in this example, we are adding an attribute `id` that gives this emphasis tag a more unique id that can be called when stylizing with CSS. There are many different attributes that can be used. 
+
+***CSS***, or cascading style sheets, is what your webpage uses to dictate the color, fonts, and design of your webpage. CSS can be written within the same file as your HTML as long as it is referenced within the `<style>` tag. 
+
+
+### Basic Anatomy of JavaScript:
+***JavaScript*** is the instruction manual that will walk your webpage through the logic. Unlike humans who can pick up on instructions and make them routine, this 'instruction manual' will need to be written in enough detail as if everytime is the first time your webpage is learning this. 
+
+- While it might be tempting to start writing `code` right off the bat, the easiest solution is to break down and design your script as miniscule steps. Be as thorough as possible throughout the entire operation. 
+
+A script is typically made up of *objects, methods, and events*. To be put simply events are triggers that can call methods, or an executionale action to be done that can change values within objects. 
+
+
