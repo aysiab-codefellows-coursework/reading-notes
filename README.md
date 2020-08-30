@@ -1,2 +1,2 @@
-# reading-notes
-Code Fellows reading notes repo
+# Code 201 Reading Notes
+
