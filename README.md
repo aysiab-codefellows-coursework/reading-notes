@@ -1,8 +1,8 @@
 # Code 201 Reading Notes
-*This repository is intended to summarize, reflect and analyze the readings from Jon Duckett's boks on HTML&CSS, and JavaScript&JQuery*
+*This repository is intended to summarize, reflect and analyze the readings from Jon Duckett's boks on HTML&CSS, and JavaScript&JQuery. This page is structured using [GitHub Pages](https://pages.github.com/)*
 
 ### Table of Contents:
-1. Reading Assignment 1
+1. [Reading Assignment 1](./class-01.md)
 2. Reading Assigment 2
 3. Reading Assignment 3 
 4. Reading Assignment 4
