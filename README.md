@@ -2,7 +2,10 @@
 *This repository is intended to summarize, reflect and analyze the readings from Jon Duckett's boks on HTML&CSS, and JavaScript&JQuery. This page is structured using [GitHub Pages](https://pages.github.com/)*
 
 ### Table of Contents:
+***Completed:***
 1. [Reading Assignment 1](./code201/class-01.md)
+
+***Upcoming:***
 2. Reading Assigment 2
 3. Reading Assignment 3 
 4. Reading Assignment 4
