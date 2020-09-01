@@ -20,16 +20,6 @@
 
 *`<h1>` is the biggest and foremost heading option, however there are options in descending size importance down to `<h6>`
 
-**Semantics:**
-| Tag                         | How it's used                           |
-|-----------------------------|-----------------------------------------|
-| `<br />`                    | Create line breaks                      |
-| `<hr />`                    | Create horizontal rule                  |
-| `<blockquote></blockquote>` | Create block quotes                     |
-| `<q></q>`                   | Create short in line quotes             |
-| `<abvr></abbr>`             | Create hover longhand for abbreviations |
-
-
 HTML elements are used to define the basic structure of the webpage but can also contain semantic information. 
 <hr/>
 
