@@ -1,4 +1,4 @@
-# Class 10: Reading Assignment 10
+# Class 11: Reading Assignment 11
 *Sections read:*
 - Ch. 16., Ch. 19. (HTML&CSS)
 - [This Article](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
