@@ -22,8 +22,8 @@
 
 ## Code 301 Notes:
 ### Table of Contents:
-1. [Reading Assigment 1](./code301/read-01/md)
-2. Reading Assigment 2
+1. [Reading Assigment 1](./code301/read-01.md)
+2. [Reading Assigment 2](./code301/read-02.md)
 3. Reading Assigment 3
 4. Reading Assigment 4
 5. Reading Assigment 5
