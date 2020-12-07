@@ -36,4 +36,10 @@
 12. [Reading Assigment 12](./code301/read-12.md)
 13. [Reading Assigment 13](./code301/read-13.md)
 14. [Reading Assigment 14a](./code301/read-14.md)
-15. Reading Assigment 15
+15. [Reading Assigment 15]()
+
+
+## Code 401 Advanced JavaScript Notes:
+### Table of Contents:
+0. [Pre-Work Reading 0](./code401/read-00.md)
+
