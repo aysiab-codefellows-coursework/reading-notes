@@ -42,4 +42,6 @@
 ## Code 401 Advanced JavaScript Notes:
 ### Table of Contents:
 0. [Pre-Work Reading 0](./code401/read-00.md)
+1. [Reading Assignment 01](./code401/read-01.md)
+2. [Reading Assignment 02](./code401/read-02.md)
 
