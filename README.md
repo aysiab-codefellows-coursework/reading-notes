@@ -45,4 +45,5 @@
 1. [Reading Assignment 01](./code401/read-01.md)
 2. [Reading Assignment 02](./code401/read-02.md)
 3. [Reading Assignment 03](./code401/read-03.md)
-4. [Reading Assignment 03](./code401/read-04.md)
+4. [Reading Assignment 04](./code401/read-04.md)
+5. [Reading Assignment 05](./code401/read-05.md)
