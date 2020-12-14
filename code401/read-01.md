@@ -1,4 +1,4 @@
-# Reading Assignment 01
+ # Reading Assignment 01
 
 ### Array.map & Array.reduce
 *Simple definitions:* The `Array.map()` is an integrated method within the Array object in JavaScript that creates a a new array by using a callback function on the data from the original array.
