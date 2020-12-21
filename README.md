@@ -47,3 +47,8 @@
 3. [Reading Assignment 03](./code401/read-03.md)
 4. [Reading Assignment 04](./code401/read-04.md)
 5. [Reading Assignment 05](./code401/read-05.md)
+6. [Reading Assignment 06](./code401/read-06.md)
+7. [Reading Assignment 07](./code401/read-07.md)
+8. [Reading Assignment 08](./code401/read-08.md)
+9. [Reading on Stacks & Queues](./code401/snq.md)
+10. [Reading Assignment 11](./code401/read-11.md)
