@@ -52,3 +52,7 @@
 8. [Reading Assignment 08](./code401/read-08.md)
 9. [Reading on Stacks & Queues](./code401/snq.md)
 10. [Reading Assignment 11](./code401/read-11.md)
+11. [Reading Assignment 12](./code401/read-12.md)
+12. [Reading Assignment 13](./code401/read-13.md)
+13. [Reading Assignment 14](./code-401/read-14.md)
+14. [Reading on Binary Search Trees](./code401/trees.md)
